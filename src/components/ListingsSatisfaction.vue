@@ -18,13 +18,7 @@
           class="text-white ma-10"
           style="font-size: 18px;"
         >
-          <v-icon
-            size="32px"
-            color="orange"
-            class="mr-2"
-          >
-            mdi-check-circle
-          </v-icon> {{ item.text }}
+          <CheckList :item="item" />
         </div>
       </div>
     </div>
@@ -32,6 +26,7 @@
 </template>
 
 <script setup>
+import CheckList from './CheckList.vue';
 import { ref } from 'vue'
 const items = ref([
     {

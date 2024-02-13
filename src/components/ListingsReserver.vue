@@ -11,7 +11,10 @@
       >
         Resevering a Car is Easy!
       </h1>
-      <div class="d-flex">
+      <div
+        class="d-flex flex-wrap"
+        style="min-width: 350px ;"
+      >
         <div
           v-for="(type) in types"
           :key="type.id"
