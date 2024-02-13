@@ -14,7 +14,7 @@
       </div>
       <div
         style="max-width:1250px;"
-        class="pa-4 ma-0 d-flex flex-row"
+        class="pa-4 ma-0 d-flex flex-row flex-wrap"
       >
         <div class="mr-10">
           <v-row>
