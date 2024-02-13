@@ -1,8 +1,8 @@
 <template>
-  <div class="d-flex align-center flex-column">
+  <div class="d-flex align-center flex-column ">
     <v-card
       class=" ma-4 "
-      width="350px"
+      width="342px"
       min-width="250px"
     >
       <v-img
