@@ -102,10 +102,11 @@
                   variant="solo-filled"
                 />
               </v-col>
+            </v-row>
+            <v-row>
               <v-col
-
                 cols="12"
-                md="3"
+                md="7"
               >
                 <v-btn
                   height="45"
