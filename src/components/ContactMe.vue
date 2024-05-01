@@ -1,6 +1,6 @@
 <template>
   <v-container
-    class="contact-form "
+    class="contact-form letra"
     fluid
   >
     <div class="d-flex flex-column justify-center align-center">
@@ -44,7 +44,7 @@
             </v-col>
             <v-col cols="12">
               <v-btn
-                color="orange"
+                color="#faa152"
                 dark
               >
                 Submit

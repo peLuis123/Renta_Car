@@ -1,9 +1,9 @@
 
 <template>
   <div>
-    <div class="d-flex align-center text-white ma-6">
+    <div class="d-flex align-center text-white ma-6 letra">
       <v-icon
-        color="orange"
+        color="#faa152"
         class="mr-2"
         size="75px"
       >
@@ -23,7 +23,7 @@
       variant="plain"
       elevation="15"
       color="white"
-      class="ml-15"
+      class="ml-15 letra"
     >
       REDEEM
     </v-btn>

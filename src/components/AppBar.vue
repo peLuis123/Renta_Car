@@ -1,6 +1,7 @@
 <template>
   <v-app-bar
     :elevation="2"
+    class="letra"
   >
     <v-app-bar-title>Renta Car</v-app-bar-title>
     <div
@@ -26,7 +27,7 @@ const items = ref([
     { id: 1, text: 'home', to: "/home" },
     { id: 2, text: 'listings', to: "/listings" },
     { id: 3, text: 'contact', to: "/contact" },
-    { id: 4, text: 'landing', to: "/listings" },
+    { id: 4, text: 'landing', to: "/landing" },
     { id: 5, text: 'services', to: "/listings" },
     { id: 6, text: 'about', to: "/listings" },
     { id: 7, text: 'listing', to: "/listings" }

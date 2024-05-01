@@ -1,5 +1,5 @@
 <template>
-  <div class="d-flex align-center flex-column ">
+  <div class="d-flex align-center flex-column letra">
     <v-card
       class=" ma-4 "
       width="342px"

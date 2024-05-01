@@ -7,7 +7,12 @@
       class="pa-4 ma-0 d-flex flex-column justify-center align-center"
       style="height: auto; max-width: 100%; min-height: 500px;"
     >
-      <h1>Satisfaction Guaranteed</h1>
+      <h1
+        class="text-white"
+        style="font-size:60px"
+      >
+        Satisfaction Guaranteed
+      </h1>
       <div
         class="d-flex flex-wrap justify-center align-center"
         style="max-width: 1250px;"
@@ -21,6 +26,13 @@
           <CheckList :item="item" />
         </div>
       </div>
+      <v-btn
+        height="55px"
+        color="#faa152"
+        class="btn-reserve text-white"
+      >
+        RESERVE NOW
+      </v-btn>
     </div>
   </v-container>
 </template>

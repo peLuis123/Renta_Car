@@ -1,6 +1,6 @@
 <template>
   <v-container
-    class="pa-0 ma-0 portada d-flex justify-center  align-center"
+    class="pa-0 ma-0 portada d-flex justify-center  align-center letra"
     style="height:auto; min-height: 500px ;"
     fluid
   >

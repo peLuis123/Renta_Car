@@ -1,6 +1,6 @@
 <template>
   <v-container
-    class="d-flex justify-center flex-column"
+    class="d-flex justify-center flex-column letra"
     style="height: auto; max-width: 1250px; min-height: 300px;"
     fluid
   >

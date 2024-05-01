@@ -1,6 +1,6 @@
 <template>
   <v-container
-    class=" portada d-flex justify-center text-white "
+    class=" portada d-flex justify-center text-white letra"
     style="height:auto; min-height: 700px"
     fluid
   >

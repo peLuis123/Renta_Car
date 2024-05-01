@@ -1,6 +1,6 @@
 <template>
   <v-container
-    class="pa-0 ma-0 portada d-flex justify-center  align-center"
+    class="pa-0 ma-0 portada d-flex justify-center  align-center letra"
     style="height:auto; min-height: 500px"
     fluid
   >
@@ -16,14 +16,14 @@
           md="8"
           sm="12"
         >
-          <h1
-            class="text-white"
-            style="font-size: 60px;"
+          <div
+            class="text-white letra"
+            style="font-size: 60px; font-weight: bold;"
           >
             Rental Cars From Just
-          </h1>
+          </div>
           <span
-            class="text-orange"
+            class="text-orange letra"
             style="font-size: 60px;"
           >
             $25/Day

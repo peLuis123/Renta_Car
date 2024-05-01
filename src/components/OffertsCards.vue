@@ -1,6 +1,6 @@
 <template>
   <v-card
-    class="ma-2 pa-2 d-flex align-center"
+    class="letra ma-2 pa-2 d-flex align-center"
     style="width: auto; min-width: 120px; "
   >
     <div
@@ -8,7 +8,7 @@
     >
       <v-icon
         size="35"
-        color="orange"
+        color="#faa152"
       >
         mdi-tag
       </v-icon>

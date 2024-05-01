@@ -6,7 +6,7 @@
   >
     <v-icon class="mr-3">
       {{ item.icon }}
-    </v-icon> {{ item.title }}
+    </v-icon> <span class="letra">{{ item.title }}</span>
   </div>
 </template>
 <script setup>

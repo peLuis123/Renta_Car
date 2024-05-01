@@ -10,6 +10,10 @@
   color: white;
 }
 .text-orange{
-  color: orange;
+  color: #faa152;
 }
+.letra{
+  font-family: 'Josefin Sans',Helvetica,Arial,Lucida,sans-serif !important;
+}
+
 </style>

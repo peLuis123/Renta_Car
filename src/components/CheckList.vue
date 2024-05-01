@@ -1,11 +1,11 @@
 <template>
   <v-icon
     size="32px"
-    color="orange"
+    color="#faa152"
     class="mr-2"
   >
     mdi-check-circle
-  </v-icon> {{ item.text }}
+  </v-icon> <span class="letra">{{ item.text }}</span>
 </template>
 <script setup>
 import { defineProps } from 'vue';
